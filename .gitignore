@@ -1,0 +1,20 @@
+# Downloaded GEO data and generated analysis outputs
+ct_reanalysis/
+/content/ct_reanalysis/
+results/
+data/
+*.tar
+*.tar.gz
+*.gz
+*.zip
+
+# Notebook and Python transient files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
