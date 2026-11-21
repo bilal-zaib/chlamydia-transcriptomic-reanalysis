@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository or the reanalysis, please cite it and the underlying GEO accessions relevant to your reuse."
+title: "Cross-context reanalysis of host transcriptional responses to Chlamydia trachomatis"
+type: software
+version: 1.0.0
+date-released: 2026-11-21
+abstract: >-
+  Cross-study reanalysis of publicly available human RNA-seq datasets covering
+  Chlamydia trachomatis infection in epithelial and HeLa models, together with
+  macrophage training comparators. The analysis evaluates differential
+  expression, cross-context concordance, directional validation and preranked
+  gene-set enrichment.
+authors:
+  - family-names: Khan
+    given-names: Zaid
+keywords:
+  - Chlamydia trachomatis
+  - RNA-seq
+  - transcriptomics
+  - differential expression
+  - epithelial cells
+  - trained immunity
+  - Gene Expression Omnibus
+license: "NOASSERTION"
